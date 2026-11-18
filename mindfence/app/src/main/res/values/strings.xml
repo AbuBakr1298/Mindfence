@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MindFence</string>
+    <string name="accessibility_description">MindFence automatically tracks short-form swipe gestures on Instagram, YouTube Shorts, and TikTok to help you establish healthy boundaries. 100% offline and private.</string>
+
+    <!-- Navigation -->
+    <string name="nav_today">Today</string>
+    <string name="nav_barriers">Barriers</string>
+    <string name="nav_focus">Focus</string>
+    <string name="nav_insights">Insights</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Overlay Lock -->
+    <string name="feed_locked_title">Time to look up.</string>
+    <string name="feed_locked_subtitle">You set a daily boundary and reached it. Complete your challenge or pause and refocus.</string>
+    <string name="btn_close_app">Close feed &amp; refocus</string>
+    <string name="btn_unlock_challenge">Complete challenge (+5 reels)</string>
+</resources>

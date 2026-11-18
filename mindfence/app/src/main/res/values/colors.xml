@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Sand & Sage Artisanal Palette -->
+    <color name="parchment">#FAF7F2</color>
+    <color name="pure_white">#FFFFFF</color>
+    <color name="terracotta">#C2563E</color>
+    <color name="terracotta_dark">#A8432D</color>
+    <color name="sage_green">#6B8F71</color>
+    <color name="warm_ink">#2A2118</color>
+    <color name="drift_gray">#8C7E72</color>
+    <color name="crimson">#A93B2B</color>
+    <color name="forest_green">#3D6B4F</color>
+    <color name="peach_tint">#FFF1EB</color>
+    <color name="sand_border">#E8E0D6</color>
+</resources>

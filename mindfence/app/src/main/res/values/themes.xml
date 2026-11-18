@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MindFence" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/parchment</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="colorPrimary">@color/terracotta</item>
+        <item name="colorSecondary">@color/sage_green</item>
+        <item name="android:windowBackground">@color/parchment</item>
+        <item name="colorSurface">@color/pure_white</item>
+        <item name="colorOnSurface">@color/warm_ink</item>
+    </style>
+</resources>
